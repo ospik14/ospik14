@@ -5,8 +5,7 @@
 ## About me
 I'm a Software Engineering student interested in backend
 development, distributed systems and infrastructure.
-Currently building projects with Python, Django, FastAPI,
-Aiogram, PostgreSQL and Docker.
+I develop web applications, CRM systems, bots, automation tools, and custom backend services.
 
 ---
 
@@ -14,6 +13,11 @@ Aiogram, PostgreSQL and Docker.
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,redis,git,linux" />
 </p>
+
+**• languages:** Python 
+**• frameworks:** Django, FastAPI, Aiogram
+**• database:** PostgreSQL, SQLite, Redis 
+**• tools:**•  Docker, Git, Postman, Linux
 
 ---
 
