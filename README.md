@@ -23,8 +23,6 @@ I develop web applications, CRM systems, bots, automation tools, and custom back
 
 ## Featured Projects
 
-🚀 Featured Projects
-
 <table> <tr> <td width="50%" valign="top">
 
 🛠 RepairHub CRM
@@ -46,6 +44,9 @@ Async Telegram bot for 24/7 OLX monitoring with instant notifications and duplic
 <a href="https://github.com/ospik14/OLX-Hunter-Bot">View project →</a>
 
 </td> </tr> </table>
+
+---
+## Statistics
 
 <table align="center">
   <tr>
