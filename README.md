@@ -23,41 +23,29 @@ I develop web applications, CRM systems, bots, automation tools, and custom back
 
 ## Featured Projects
 
-### 🛠 RepairHub CRM
+🚀 Featured Projects
 
-A service center management system designed to automate the entire repair workflow — from device intake and order processing to warehouse management and receipt generation.
+<table> <tr> <td width="50%" valign="top">
 
-The system includes role-based access control for administrators, managers, and technicians, along with automated pricing, inventory tracking, financial statistics, and repair management.
+🛠 RepairHub CRM
 
-**Key features:**
+Service center automation system with role-based access, repair management, warehouse tracking, pricing, and business statistics.
 
-• 👥 Client & repair order management  
-• 📦 Warehouse and spare parts tracking  
-• 🛠 Technician workspace & repair workflow  
-• 💰 Automatic repair cost calculation  
-• 🧾 Receipt generation  
-• 📊 Revenue & operational statistics  
-• 🔐 JWT authentication & RBAC  
+`FastAPI` · `PostgreSQL` · `SQLAlchemy` ·` Docker`
 
-`Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Pydantic` `JavaScript` `Bootstrap` `Docker`
+<a href="https://github.com/ospik14/RepairHub">View project →</a>
 
-### 🛒 OLX Hunter Bot
+</td> <td width="50%" valign="top">
 
-An asynchronous Telegram bot for real-time OLX monitoring, built to help users track new listings and receive notifications within seconds of publication.
+🛒 OLX Hunter Bot
 
-Users can create and manage multiple search tasks, while the system continuously monitors OLX 24/7 and sends notifications about new matching listings. The bot also includes Free/Premium access tiers and an administrator module for managing users and system activity.
+Async Telegram bot for 24/7 OLX monitoring with instant notifications and duplicate detection.
 
-**Key features:**
+`Python` · `Aiogram` · `PostgreSQL` · `Docker`
 
-• 🔎 Automated OLX search monitoring  
-• ⚡ Asynchronous parsing & real-time notifications  
-• 🔔 Telegram notifications for new listings  
-• 🗂️ Multiple search tasks with pause/resume controls  
-• 🛡️ Duplicate detection & data consistency  
-• 👑 Free/Premium access system  
-• 🖥️ 24/7 deployment on VPS  
+<a href="https://github.com/ospik14/OLX-Hunter-Bot">View project →</a>
 
-`Python` `Aiogram` `curl_cffi` `BeautifulSoup` `PostgreSQL` `SQLAlchemy` `asyncpg` `Docker`
+</td> </tr> </table>
 
 <table align="center">
   <tr>
