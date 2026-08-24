@@ -17,27 +17,47 @@ I develop web applications, CRM systems, bots, automation tools, and custom back
 **• languages:** Python  
 **• frameworks:** Django, FastAPI, Aiogram  
 **• database:** PostgreSQL, SQLite, Redis  
-**• tools:**•  Docker, Git, Postman, Linux  
+**• tools:**  Docker, Git, Postman, Linux  
 
 ---
-<p align="center">
-  <a href="https://github.com/ospik14/RepairHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ospik14&repo=RepairHub&theme=github_dark" />
-  </a>
-  <a href="https://github.com/ospik14/OLX-Hunter-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ospik14&repo=OLX-Hunter-Bot&theme=github_dark" />
-  </a>
-</p>
 
-### 🏢 CRM System
-Business-oriented CRM for managing internal processes and data.
+## Featured Projects
 
-`Python` `Fastapi` `PostgreSQL` `REST API`
+### 🛠 RepairHub CRM
 
-### 🛒 OLX Parser Bot
-Automation tool for monitoring OLX listings and notifying users about new ads.
+A service center management system designed to automate the entire repair workflow — from device intake and order processing to warehouse management and receipt generation.
 
-`Python` `Aiogram` `PostgreSQL` `SQLAlchemy` `Docker`
+The system includes role-based access control for administrators, managers, and technicians, along with automated pricing, inventory tracking, financial statistics, and repair management.
+
+**Key features:**
+
+• 👥 Client & repair order management  
+• 📦 Warehouse and spare parts tracking  
+• 🛠 Technician workspace & repair workflow  
+• 💰 Automatic repair cost calculation  
+• 🧾 Receipt generation  
+• 📊 Revenue & operational statistics  
+• 🔐 JWT authentication & RBAC  
+
+`Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Pydantic` `JavaScript` `Bootstrap` `Docker`
+
+### 🛒 OLX Hunter Bot
+
+An asynchronous Telegram bot for real-time OLX monitoring, built to help users track new listings and receive notifications within seconds of publication.
+
+Users can create and manage multiple search tasks, while the system continuously monitors OLX 24/7 and sends notifications about new matching listings. The bot also includes Free/Premium access tiers and an administrator module for managing users and system activity.
+
+**Key features:**
+
+• 🔎 Automated OLX search monitoring  
+• ⚡ Asynchronous parsing & real-time notifications  
+• 🔔 Telegram notifications for new listings  
+• 🗂️ Multiple search tasks with pause/resume controls  
+• 🛡️ Duplicate detection & data consistency  
+• 👑 Free/Premium access system  
+• 🖥️ 24/7 deployment on VPS  
+
+`Python` `Aiogram` `curl_cffi` `BeautifulSoup` `PostgreSQL` `SQLAlchemy` `asyncpg` `Docker`
 
 <table align="center">
   <tr>
