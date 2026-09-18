@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" width="100%">
-</p>
-
 ## About me
 I'm a Software Engineering student interested in backend
 development, distributed systems and infrastructure.
@@ -52,6 +48,10 @@ Async Telegram bot for 24/7 OLX monitoring with instant notifications and duplic
   <tr>
     <td valign="top" width="56%">
       <img src="https://github-readme-stats-rosy-ten-10.vercel.app/api?username=ospik14&show_icons=true&theme=radical&count_private=true" width="100%" alt="GitHub Stats" />
+    </td>
+    <td valign="top" width="44%">
+      <img src="https://github-readme-stats-rosy-ten-10.vercel.app/api/top-langs/?username=ospik14&layout=compact&theme=radical" width="100%" alt="Top Langs" />
+    </td>
   </tr>
 </table>
 
