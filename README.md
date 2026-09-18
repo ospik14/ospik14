@@ -52,17 +52,7 @@ Async Telegram bot for 24/7 OLX monitoring with instant notifications and duplic
   <tr>
     <td valign="top" width="56%">
       <img src="https://github-readme-stats-rosy-ten-10.vercel.app/api?username=ospik14&show_icons=true&theme=radical&count_private=true" width="100%" alt="GitHub Stats" />
-    </td>
-    <td valign="top" width="44%">
-      <img src="https://github-readme-stats-rosy-ten-10.vercel.app/api/top-langs/?username=ospik14&layout=compact&theme=radical" width="100%" alt="Top Langs" />
-    </td>
   </tr>
 </table>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ospik14/ospik14/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ospik14/ospik14/output/github-snake.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/ospik14/ospik14/output/github-snake.svg" />
-  </picture>
-</p>
+
