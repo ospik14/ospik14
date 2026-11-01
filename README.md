@@ -1,48 +1,75 @@
-## About me
-I'm a Software Engineering student interested in backend
-development, distributed systems and infrastructure.
-I develop web applications, CRM systems, bots, automation tools, and custom backend services.
+## About Me
+
+I'm a **Computer Engineering student** focused on Python backend development.
+
+I build REST APIs, business applications, automation tools, and database-driven services. My main interests include backend architecture, asynchronous programming, distributed systems, and infrastructure.
 
 ---
 
-## Core skills
+## Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,redis,git,linux" />
 </p>
 
-**• languages:** Python  
-**• frameworks:** Django, FastAPI, Aiogram  
-**• database:** PostgreSQL, SQLite, Redis  
-**• tools:**  Docker, Git, Postman, Linux  
+**• Languages:** Python, SQL  
+**• Frameworks:** FastAPI, Django, DRF, aiogram  
+**• Databases:** PostgreSQL, SQLite  
+**• Infrastructure:** Docker, Redis, Linux  
+**• Tools:** Git, Alembic, Postman  
 
 ---
 
 ## Featured Projects
 
-<table> <tr> <td width="50%" valign="top">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🛠 RepairHub CRM
+### 🛠 RepairHub CRM
 
-Service center automation system with role-based access, repair management, warehouse tracking, pricing, and business statistics.
+Service center management system featuring repair workflows, role-based access control, inventory tracking, and business analytics.
 
-`FastAPI` · `PostgreSQL` · `SQLAlchemy` ·` Docker`
+`FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Docker`
 
 <a href="https://github.com/ospik14/RepairHub">View project →</a>
 
-</td> <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-🛒 OLX Hunter Bot
+### 🛒 OLX Hunter Bot
 
-Async Telegram bot for 24/7 OLX monitoring with instant notifications and duplicate detection.
+Asynchronous OLX monitoring service with automated notifications, subscription management, and integrated Telegram Stars payments.
 
-`Python` · `Aiogram` · `PostgreSQL` · `Docker`
+`Python` · `aiogram` · `PostgreSQL` · `Docker`
 
 <a href="https://github.com/ospik14/OLX-Hunter-Bot">View project →</a>
 
-</td> </tr> </table>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td valign="top">
+
+### 🏨 Hotel Booking SaaS
+
+Multi-tenant SaaS platform for hotel management and online reservations. Features role-based access control, tenant isolation, booking management, and database-level prevention of overlapping reservations.
+
+🚧 Under active development
+
+FastAPI · PostgreSQL · SQLAlchemy · Alembic · Docker
+
+<a href="https://github.com/ospik14/hotel-booking">View project →</a>
+
+</td>
+</tr>
+</table>
 
 ---
-## Statistics
+
+## GitHub Statistics
 
 <table align="center">
   <tr>
@@ -50,9 +77,7 @@ Async Telegram bot for 24/7 OLX monitoring with instant notifications and duplic
       <img src="https://github-readme-stats-rosy-ten-10.vercel.app/api?username=ospik14&show_icons=true&theme=radical&count_private=true" width="100%" alt="GitHub Stats" />
     </td>
     <td valign="top" width="44%">
-      <img src="https://github-readme-stats-rosy-ten-10.vercel.app/api/top-langs/?username=ospik14&layout=compact&theme=radical" width="100%" alt="Top Langs" />
+      <img src="https://github-readme-stats-rosy-ten-10.vercel.app/api/top-langs/?username=ospik14&layout=compact&theme=radical" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
-
-
